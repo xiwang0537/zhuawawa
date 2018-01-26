@@ -1,0 +1,32 @@
+D .
+D comp
+P AF34F7D0 10yuan.png
+P 6CF857EB 15yuan.png
+P 0144F858 16yuan.png
+P B79F4C6A 5yuan.png
+P 70C3E04E aideo.png
+P 0C9632BE aideoplay.png
+P B0A2D695 aideostop.png
+R E16D86E9 bgm.mp3
+P 1F1E181F dz.png
+P DE1D7E12 gobtn.png
+R CD1A1CB7 hittoy.mp3
+R A94AE3BB hookplay.mp3
+R B313E549 misstoy.mp3
+P 150FC374 z.png
+P E3930F93 zline.png
+D comp/anewyearimg
+P 96CD230F 10yuanafter.png
+P 9F2AFA4B 15yuanafter.png
+P 81482738 5yuanafter.png
+R D4FE8CBD bgimg.png
+R 2D8BE25D bgm.mp3
+P 8929DD2B gobtn2.png
+R 6C997CF9 hintbg.png
+R 9DBC9B82 loading.gif
+D comp/dog
+P 39166184 g1.png
+P A5AD4A59 g2.png
+P 70E09D53 g3.png
+P 0754E07A g4.png
+P 3491C1C7 g5.png
